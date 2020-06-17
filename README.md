@@ -1,2 +1,6 @@
-# Writeup-CTF
-Writeup for Capture The Flag Challenge
+# CTF Writeup
+
+Writeup yang mayoritasnya Web Chall!
+
+## Author : 
+* [Wuvel :p](github.com/wuvel)

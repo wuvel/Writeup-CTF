@@ -5,6 +5,8 @@
 - Cek http://web.zh3r0.ml:7777/index.php?page=upload -> Bisa upload php -> Eksekusi system('ls') -> payload masuk, uploadan kita bakalan ada di http://web.zh3r0.ml:7777/index.php?page=NAMAUPLOADANKITA (tanpa .php)
 - Masukin payload buat cat semua file di semua direktori -> dapet flag, cek di bawah -> zh3r0{h3y_d1d_y0u_upl04d_php_c0rr3ct1y???_84651320}
 ```
+
+```
 ls -la:
 
 total 220

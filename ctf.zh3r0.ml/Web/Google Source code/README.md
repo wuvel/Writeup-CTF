@@ -120,6 +120,8 @@ if ($uploadOk == 0) {
 ```
 
 ```
+Cat semua file di semua direktori yang ada (sebagian saya cut):
+
 <pre><?php
     $flag="<b><font size=26>Not that easy :P</font></b><br><img src='https://media.giphy.com/media/p0RDMJGgMXF96/giphy.gif' />";
 ?><?php
